@@ -1,6 +1,3 @@
-Hey,
-this is the code with conversion thing,
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
